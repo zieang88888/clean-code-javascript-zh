@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns='http://www.w3.org/2000/svg' width='1200' height='640' viewBox='0 0 1200 640'>
+  <rect x='0' y='0' width='1200' height='640' fill='#FAF6EF'/>
+  <rect x='40' y='36' width='1120' height='64' rx='14' fill='#B23A2E'/>
+  <text x='600' y='77' font-size='26' font-weight='600' fill='#FFFFFF' text-anchor='middle' font-family='system-ui, -apple-system, Segoe UI, Microsoft YaHei, sans-serif'>11 分类 · 46 条规范</text>
+  <rect x='40' y='120' width='360' height='105' rx='14' fill='#FFFFFF' stroke='#E8E0D2' stroke-width='1'/>
+  <rect x='70' y='142' width='8' height='8' fill='#B23A2E'/>
+  <text x='70' y='178' font-size='32' font-weight='700' fill='#B23A2E' font-family='system-ui, -apple-system, Segoe UI, Microsoft YaHei, sans-serif'>7</text>
+  <text x='70' y='208' font-size='20' fill='#1F1B16' font-family='system-ui, -apple-system, Segoe UI, Microsoft YaHei, sans-serif'>变量</text>
+  <rect x='420' y='120' width='360' height='105' rx='14' fill='#FFFFFF' stroke='#E8E0D2' stroke-width='1'/>
+  <rect x='450' y='142' width='8' height='8' fill='#B23A2E'/>
+  <text x='450' y='178' font-size='32' font-weight='700' fill='#B23A2E' font-family='system-ui, -apple-system, Segoe UI, Microsoft YaHei, sans-serif'>9</text>
+  <text x='450' y='208' font-size='20' fill='#1F1B16' font-family='system-ui, -apple-system, Segoe UI, Microsoft YaHei, sans-serif'>函数</text>
+  <rect x='800' y='120' width='360' height='105' rx='14' fill='#FFFFFF' stroke='#E8E0D2' stroke-width='1'/>
+  <rect x='830' y='142' width='8' height='8' fill='#B23A2E'/>
+  <text x='830' y='178' font-size='32' font-weight='700' fill='#B23A2E' font-family='system-ui, -apple-system, Segoe UI, Microsoft YaHei, sans-serif'>9</text>
+  <text x='830' y='208' font-size='20' fill='#1F1B16' font-family='system-ui, -apple-system, Segoe UI, Microsoft YaHei, sans-serif'>函数（下）</text>
+  <rect x='40' y='245' width='360' height='105' rx='14' fill='#FFFFFF' stroke='#E8E0D2' stroke-width='1'/>
+  <rect x='70' y='267' width='8' height='8' fill='#B23A2E'/>
+  <text x='70' y='303' font-size='32' font-weight='700' fill='#B23A2E' font-family='system-ui, -apple-system, Segoe UI, Microsoft YaHei, sans-serif'>2</text>
+  <text x='70' y='333' font-size='20' fill='#1F1B16' font-family='system-ui, -apple-system, Segoe UI, Microsoft YaHei, sans-serif'>对象与数据结构</text>
+  <rect x='420' y='245' width='360' height='105' rx='14' fill='#FFFFFF' stroke='#E8E0D2' stroke-width='1'/>
+  <rect x='450' y='267' width='8' height='8' fill='#B23A2E'/>
+  <text x='450' y='303' font-size='32' font-weight='700' fill='#B23A2E' font-family='system-ui, -apple-system, Segoe UI, Microsoft YaHei, sans-serif'>3</text>
+  <text x='450' y='333' font-size='20' fill='#1F1B16' font-family='system-ui, -apple-system, Segoe UI, Microsoft YaHei, sans-serif'>类</text>
+  <rect x='800' y='245' width='360' height='105' rx='14' fill='#FFFFFF' stroke='#E8E0D2' stroke-width='1'/>
+  <rect x='830' y='267' width='8' height='8' fill='#B23A2E'/>
+  <text x='830' y='303' font-size='32' font-weight='700' fill='#B23A2E' font-family='system-ui, -apple-system, Segoe UI, Microsoft YaHei, sans-serif'>5</text>
+  <text x='830' y='333' font-size='20' fill='#1F1B16' font-family='system-ui, -apple-system, Segoe UI, Microsoft YaHei, sans-serif'>SOLID原则</text>
+  <rect x='40' y='370' width='360' height='105' rx='14' fill='#FFFFFF' stroke='#E8E0D2' stroke-width='1'/>
+  <rect x='70' y='392' width='8' height='8' fill='#B23A2E'/>
+  <text x='70' y='428' font-size='32' font-weight='700' fill='#B23A2E' font-family='system-ui, -apple-system, Segoe UI, Microsoft YaHei, sans-serif'>1</text>
+  <text x='70' y='458' font-size='20' fill='#1F1B16' font-family='system-ui, -apple-system, Segoe UI, Microsoft YaHei, sans-serif'>测试</text>
+  <rect x='420' y='370' width='360' height='105' rx='14' fill='#FFFFFF' stroke='#E8E0D2' stroke-width='1'/>
+  <rect x='450' y='392' width='8' height='8' fill='#B23A2E'/>
+  <text x='450' y='428' font-size='32' font-weight='700' fill='#B23A2E' font-family='system-ui, -apple-system, Segoe UI, Microsoft YaHei, sans-serif'>2</text>
+  <text x='450' y='458' font-size='20' fill='#1F1B16' font-family='system-ui, -apple-system, Segoe UI, Microsoft YaHei, sans-serif'>并发</text>
+  <rect x='800' y='370' width='360' height='105' rx='14' fill='#FFFFFF' stroke='#E8E0D2' stroke-width='1'/>
+  <rect x='830' y='392' width='8' height='8' fill='#B23A2E'/>
+  <text x='830' y='428' font-size='32' font-weight='700' fill='#B23A2E' font-family='system-ui, -apple-system, Segoe UI, Microsoft YaHei, sans-serif'>2</text>
+  <text x='830' y='458' font-size='20' fill='#1F1B16' font-family='system-ui, -apple-system, Segoe UI, Microsoft YaHei, sans-serif'>错误处理</text>
+  <rect x='40' y='495' width='360' height='105' rx='14' fill='#FFFFFF' stroke='#E8E0D2' stroke-width='1'/>
+  <rect x='70' y='517' width='8' height='8' fill='#B23A2E'/>
+  <text x='70' y='553' font-size='32' font-weight='700' fill='#B23A2E' font-family='system-ui, -apple-system, Segoe UI, Microsoft YaHei, sans-serif'>2</text>
+  <text x='70' y='583' font-size='20' fill='#1F1B16' font-family='system-ui, -apple-system, Segoe UI, Microsoft YaHei, sans-serif'>格式化</text>
+  <rect x='420' y='495' width='360' height='105' rx='14' fill='#FFFFFF' stroke='#E8E0D2' stroke-width='1'/>
+  <rect x='450' y='517' width='8' height='8' fill='#B23A2E'/>
+  <text x='450' y='553' font-size='32' font-weight='700' fill='#B23A2E' font-family='system-ui, -apple-system, Segoe UI, Microsoft YaHei, sans-serif'>4</text>
+  <text x='450' y='583' font-size='20' fill='#1F1B16' font-family='system-ui, -apple-system, Segoe UI, Microsoft YaHei, sans-serif'>注释</text>
+</svg>
